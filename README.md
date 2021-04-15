@@ -27,7 +27,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ### 🌐Link do Projeto.
 
 
-- [Fruta&Fruta]()       
+- [Fruta&Fruta](https://eliveltonsouzadev.github.io/fruta-fruta/)       
 
 
 ### Autor:
