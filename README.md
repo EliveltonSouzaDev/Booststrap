@@ -21,7 +21,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - [GIT](https://git-scm.com/)
 
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+
 
 
 ### 🌐Link do Projeto.
